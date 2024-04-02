@@ -8,4 +8,4 @@ class Solution:
             x = -x
         rev_s = str(x)[::-1]
         rev_n = int(rev_s) * s
-        return rev_n if INT_MIN <= rev_n <= INT_MAX else 0
+        return rev_n if (INT_MIN <= rev_n and rev_n <= INT_MAX) else 0
