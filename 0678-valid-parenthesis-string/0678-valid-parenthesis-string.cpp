@@ -1,17 +1,17 @@
 class Solution {
 public:
     bool checkValidString(string s) {
-        stack<pair<char,int>> stA;
-        stack<pair<char,int>> stB;
+        stack<int> stA;
+        stack<int> stB;
         int n=s.size();
         for(int i=0; i<n; i++) {
             if(s[i]=='(') {
-                stA.push({s[i],i});
+                stA.push(i);
             } else if(s[i]=='*') {
-                stB.push({s[i],i});
+                stB.push(i);
             } else {
-                if(!stA.empty() && stA.top().first=='(') stA.pop();
-                else if(!stB.empty() && stB.top().second<i) stB.pop();
+                if(!stA.empty()) stA.pop();
+                else if(!stB.empty() && stB.top()<i) stB.pop();
                 else return false;
             }
         }
@@ -19,7 +19,7 @@ public:
         if(stA.empty()) return true;
         
         while(!stA.empty()) {
-            if(!stB.empty() && stA.top().second < stB.top().second) {
+            if(!stB.empty() && stA.top() < stB.top()) {
                 stA.pop();
                 stB.pop();
             } else {
