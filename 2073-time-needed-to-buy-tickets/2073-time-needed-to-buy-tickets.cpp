@@ -21,11 +21,13 @@ public:
             time+=size*mn;
             for(int i=0;i<n;i++){
                 if(t[i]!=-1) {
-                    if(t[i]==mn) sizeDec++;
-                    t[i]-=mn;    
+                    if(t[i]==mn){ 
+                        sizeDec++;
+                        t[i]=-1;
+                    } else {
+                        t[i]-=mn;       
+                    }
                 }
-                
-                if(t[i]==0) t[i]=-1;
             } 
             size -= sizeDec;
             if(t[k]==-1) return time-right;
