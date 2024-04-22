@@ -30,8 +30,6 @@ public:
             string cur = it->num;
             int d = it->dist;
             
-            // cout << cur << " " << d << endl;
-            
             if(cur == target) return d;
             
             for(auto nbr:adj[cur]) {
@@ -63,8 +61,8 @@ public:
                 if(right[i] == '9') right[i] = '0';
                 else right[i] = right[i]+1;
                 
-                adj[s].push_back(left);
-                adj[s].push_back(right);
+                if(dead.find(left) == dead.end()) adj[s].push_back(left);
+                if(dead.find(right) == dead.end()) adj[s].push_back(right);
             }
         }
         
