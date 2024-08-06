@@ -5,6 +5,7 @@ Collection of LeetCode questions and solutions
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
@@ -16,11 +17,13 @@ Collection of LeetCode questions and solutions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Union Find
