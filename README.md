@@ -5,6 +5,7 @@ Collection of LeetCode questions and solutions
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -13,6 +14,7 @@ Collection of LeetCode questions and solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -28,6 +30,7 @@ Collection of LeetCode questions and solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -62,4 +65,8 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
