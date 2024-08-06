@@ -28,4 +28,16 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
+## Array
+|  |
+| ------- |
+| [0967-minimum-falling-path-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0967-minimum-falling-path-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0967-minimum-falling-path-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
