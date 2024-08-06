@@ -5,10 +5,12 @@ Collection of LeetCode questions and solutions
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
@@ -19,6 +21,7 @@ Collection of LeetCode questions and solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Union Find
 |  |
@@ -40,4 +43,8 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [0967-minimum-falling-path-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
