@@ -66,6 +66,7 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0664-strange-printer](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0664-strange-printer) |
 | [0967-minimum-falling-path-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 ## Matrix
 |  |
@@ -118,4 +119,8 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+## String
+|  |
+| ------- |
+| [0664-strange-printer](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0664-strange-printer) |
 <!---LeetCode Topics End-->
