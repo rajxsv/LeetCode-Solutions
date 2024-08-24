@@ -62,6 +62,7 @@ Collection of LeetCode questions and solutions
 | [0733-flood-fill](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0881-loud-and-rich](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0881-loud-and-rich) |
 | [0967-minimum-falling-path-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1242-matrix-block-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1242-matrix-block-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +74,7 @@ Collection of LeetCode questions and solutions
 | ------- |
 | [0733-flood-fill](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1242-matrix-block-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1242-matrix-block-sum) |
 ## Stack
 |  |
 | ------- |
@@ -123,4 +125,8 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [0664-strange-printer](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0664-strange-printer) |
+## Prefix Sum
+|  |
+| ------- |
+| [1242-matrix-block-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1242-matrix-block-sum) |
 <!---LeetCode Topics End-->
