@@ -70,6 +70,7 @@ Collection of LeetCode questions and solutions
 | [0967-minimum-falling-path-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1242-matrix-block-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1242-matrix-block-sum) |
 | [1325-path-with-maximum-probability](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
+| [2411-spiral-matrix-iv](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Collection of LeetCode questions and solutions
 | [0733-flood-fill](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1242-matrix-block-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1242-matrix-block-sum) |
+| [2411-spiral-matrix-iv](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 ## Stack
 |  |
 | ------- |
@@ -95,6 +97,7 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2411-spiral-matrix-iv](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -146,4 +149,8 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
+## Simulation
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
