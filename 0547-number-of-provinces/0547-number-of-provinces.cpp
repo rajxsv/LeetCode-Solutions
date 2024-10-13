@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    void dfs(int src,map<int,bool> &vis,map<int,vector<int>> &adj){
+    void dfs(int src,unordered_map<int,bool> &vis,map<int,vector<int>> &adj){
         vis[src]=true;
         for(auto nbr:adj[src]){
             if(!vis[nbr]){
@@ -23,7 +23,7 @@ public:
         }
 
         int ans = 0;
-        map<int,bool> vis;
+        unordered_map<int,bool> vis;
 
         for(auto p:adj){
             for(auto nbr:p.second){
