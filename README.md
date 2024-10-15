@@ -75,6 +75,7 @@ Collection of LeetCode questions and solutions
 | [1242-matrix-block-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1242-matrix-block-sum) |
 | [1325-path-with-maximum-probability](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [2411-spiral-matrix-iv](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +150,7 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Shortest Path
 |  |
 | ------- |
@@ -157,4 +159,8 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [2411-spiral-matrix-iv](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
+## Greedy
+|  |
+| ------- |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
