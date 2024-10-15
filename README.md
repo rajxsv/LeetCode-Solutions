@@ -118,6 +118,7 @@ Collection of LeetCode questions and solutions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3195-separate-black-and-white-balls](https://github.com/rajxsv/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Design
 |  |
 | ------- |
@@ -142,6 +143,7 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [0664-strange-printer](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0664-strange-printer) |
+| [3195-separate-black-and-white-balls](https://github.com/rajxsv/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -163,4 +165,5 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/rajxsv/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->
