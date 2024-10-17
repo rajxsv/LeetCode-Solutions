@@ -164,6 +164,11 @@ Collection of LeetCode questions and solutions
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/rajxsv/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
+## Math
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
