@@ -143,6 +143,7 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [0664-strange-printer](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0664-strange-printer) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3195-separate-black-and-white-balls](https://github.com/rajxsv/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Prefix Sum
 |  |
@@ -160,6 +161,7 @@ Collection of LeetCode questions and solutions
 ## Simulation
 |  |
 | ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2411-spiral-matrix-iv](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 ## Greedy
 |  |
@@ -171,4 +173,8 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0670-maximum-swap) |
+## Recursion
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
