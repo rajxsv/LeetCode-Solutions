@@ -24,6 +24,7 @@ Collection of LeetCode questions and solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0261-graph-valid-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0261-graph-valid-tree) |
 | [0547-number-of-provinces](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions and solutions
 | [0101-symmetric-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0261-graph-valid-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0261-graph-valid-tree) |
 | [0547-number-of-provinces](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -55,11 +57,13 @@ Collection of LeetCode questions and solutions
 ## Union Find
 |  |
 | ------- |
+| [0261-graph-valid-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0261-graph-valid-tree) |
 | [0547-number-of-provinces](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
 | ------- |
+| [0261-graph-valid-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0261-graph-valid-tree) |
 | [0547-number-of-provinces](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0881-loud-and-rich](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0881-loud-and-rich) |
