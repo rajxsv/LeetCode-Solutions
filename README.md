@@ -62,6 +62,7 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [0261-graph-valid-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0261-graph-valid-tree) |
+| [0305-number-of-islands-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0305-number-of-islands-ii) |
 | [0547-number-of-provinces](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 ## Graph
@@ -78,6 +79,7 @@ Collection of LeetCode questions and solutions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0260-single-number-iii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [0305-number-of-islands-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0305-number-of-islands-ii) |
 | [0444-sequence-reconstruction](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0444-sequence-reconstruction) |
 | [0733-flood-fill](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0881-loud-and-rich](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0881-loud-and-rich) |
@@ -125,6 +127,7 @@ Collection of LeetCode questions and solutions
 ## Hash Table
 |  |
 | ------- |
+| [0305-number-of-islands-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0305-number-of-islands-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Two Pointers
