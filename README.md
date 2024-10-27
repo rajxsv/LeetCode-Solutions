@@ -32,6 +32,7 @@ Collection of LeetCode questions and solutions
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0881-loud-and-rich](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0881-loud-and-rich) |
+| [1308-smallest-string-with-swaps](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -44,6 +45,7 @@ Collection of LeetCode questions and solutions
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
+| [1308-smallest-string-with-swaps](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
@@ -65,6 +67,7 @@ Collection of LeetCode questions and solutions
 | [0305-number-of-islands-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0305-number-of-islands-ii) |
 | [0547-number-of-provinces](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
+| [1308-smallest-string-with-swaps](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 ## Graph
 |  |
 | ------- |
@@ -85,6 +88,7 @@ Collection of LeetCode questions and solutions
 | [0881-loud-and-rich](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0881-loud-and-rich) |
 | [0967-minimum-falling-path-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1242-matrix-block-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1242-matrix-block-sum) |
+| [1308-smallest-string-with-swaps](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1325-path-with-maximum-probability](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2411-spiral-matrix-iv](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
@@ -129,6 +133,7 @@ Collection of LeetCode questions and solutions
 | ------- |
 | [0305-number-of-islands-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0305-number-of-islands-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1308-smallest-string-with-swaps](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Two Pointers
 |  |
@@ -162,6 +167,7 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [0664-strange-printer](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0664-strange-printer) |
+| [1308-smallest-string-with-swaps](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3195-separate-black-and-white-balls](https://github.com/rajxsv/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Prefix Sum
@@ -197,4 +203,8 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Sorting
+|  |
+| ------- |
+| [1308-smallest-string-with-swaps](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 <!---LeetCode Topics End-->
