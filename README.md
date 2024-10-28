@@ -86,6 +86,7 @@ Collection of LeetCode questions and solutions
 | [0260-single-number-iii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0305-number-of-islands-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0305-number-of-islands-ii) |
 | [0444-sequence-reconstruction](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0444-sequence-reconstruction) |
+| [0487-max-consecutive-ones-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0487-max-consecutive-ones-ii) |
 | [0733-flood-fill](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0881-loud-and-rich](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0881-loud-and-rich) |
 | [0967-minimum-falling-path-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0487-max-consecutive-ones-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0487-max-consecutive-ones-ii) |
 | [0664-strange-printer](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0664-strange-printer) |
 | [0967-minimum-falling-path-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -214,4 +216,8 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [1144-optimize-water-distribution-in-a-village](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1144-optimize-water-distribution-in-a-village) |
+## Sliding Window
+|  |
+| ------- |
+| [0487-max-consecutive-ones-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0487-max-consecutive-ones-ii) |
 <!---LeetCode Topics End-->
