@@ -67,6 +67,7 @@ Collection of LeetCode questions and solutions
 | [0305-number-of-islands-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0305-number-of-islands-ii) |
 | [0547-number-of-provinces](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
+| [1144-optimize-water-distribution-in-a-village](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1144-optimize-water-distribution-in-a-village) |
 | [1308-smallest-string-with-swaps](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 ## Graph
 |  |
@@ -76,6 +77,7 @@ Collection of LeetCode questions and solutions
 | [0547-number-of-provinces](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0881-loud-and-rich](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0881-loud-and-rich) |
+| [1144-optimize-water-distribution-in-a-village](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1144-optimize-water-distribution-in-a-village) |
 | [1325-path-with-maximum-probability](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 ## Array
 |  |
@@ -177,6 +179,7 @@ Collection of LeetCode questions and solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1144-optimize-water-distribution-in-a-village](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1144-optimize-water-distribution-in-a-village) |
 | [1325-path-with-maximum-probability](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Shortest Path
@@ -207,4 +210,8 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [1308-smallest-string-with-swaps](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1144-optimize-water-distribution-in-a-village](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1144-optimize-water-distribution-in-a-village) |
 <!---LeetCode Topics End-->
