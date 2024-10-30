@@ -147,6 +147,7 @@ Collection of LeetCode questions and solutions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0161-one-edit-distance](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0161-one-edit-distance) |
+| [0186-reverse-words-in-a-string-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3195-separate-black-and-white-balls](https://github.com/rajxsv/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Design
@@ -175,6 +176,7 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [0161-one-edit-distance](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0161-one-edit-distance) |
+| [0186-reverse-words-in-a-string-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0664-strange-printer](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0664-strange-printer) |
 | [1308-smallest-string-with-swaps](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
