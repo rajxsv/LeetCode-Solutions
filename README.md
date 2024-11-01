@@ -85,6 +85,7 @@ Collection of LeetCode questions and solutions
 | [0042-trapping-rain-water](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0260-single-number-iii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0305-number-of-islands-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0305-number-of-islands-ii) |
+| [0410-split-array-largest-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0444-sequence-reconstruction](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0444-sequence-reconstruction) |
 | [0487-max-consecutive-ones-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0487-max-consecutive-ones-ii) |
 | [0733-flood-fill](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0410-split-array-largest-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0487-max-consecutive-ones-ii) |
 | [0664-strange-printer](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0664-strange-printer) |
 | [0967-minimum-falling-path-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -134,6 +136,7 @@ Collection of LeetCode questions and solutions
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0410-split-array-largest-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Hash Table
 |  |
@@ -184,6 +187,7 @@ Collection of LeetCode questions and solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1242-matrix-block-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1242-matrix-block-sum) |
 ## Heap (Priority Queue)
 |  |
@@ -203,6 +207,7 @@ Collection of LeetCode questions and solutions
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0670-maximum-swap](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
