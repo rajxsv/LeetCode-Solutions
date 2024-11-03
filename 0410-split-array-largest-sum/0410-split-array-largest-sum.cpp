@@ -1,42 +1,40 @@
 class Solution {
 public:
-    int n;
 
-    int solve(vector<int>& pre, int ind, int k, int maxSum, vector<vector<int>>& dp) {
-        if (k == 1) {
-            return pre[n - 1] - (ind > 0 ? pre[ind - 1] : 0);
+    int exists(vector<int> &nums, int k, int maxAllowed) {
+        int currSum = 0;
+        int n = nums.size();
+        int splits = 0;
+
+        for(int i=0; i<n; i++) {
+            if(currSum + nums[i] <= maxAllowed) {
+                currSum += nums[i];
+            } else {
+                currSum = nums[i];
+                splits++;
+            }
         }
 
-        if(ind >= n) {
-            return INT_MAX;
-        }
-        
-        if (dp[ind][k] != -1) return dp[ind][k];
-
-        int ans = INT_MAX;
-
-        for (int i = ind; i < n; ++i) {
-            int curSum = pre[i] - (ind > 0 ? pre[ind - 1] : 0);
-
-            if (curSum > ans) break;
-
-            int nextSplit = solve(pre, i + 1, k - 1, max(maxSum, curSum), dp);
-            ans = min(ans, max(curSum, nextSplit));
-        }
-
-        return dp[ind][k] = ans;
+        return splits+1;
     }
 
     int splitArray(vector<int>& nums, int k) {
-        n = nums.size();
-        vector<int> pre(n, 0);
-        pre[0] = nums[0];
-        
-        for (int i = 1; i < n; ++i) {
-            pre[i] = nums[i] + pre[i - 1];
+        int low = *max_element(begin(nums),end(nums));
+        int high = accumulate(begin(nums),end(nums),0);
+        int ans = 0;
+
+        while(low <= high) {
+            int mid = (low+high)/2;
+            int check = exists(nums,k,mid);
+
+            if(check <= k) {
+                ans = mid;
+                high = mid-1;
+            } else {
+                low = mid+1;
+            }
         }
 
-        vector<vector<int>> dp(n, vector<int>(k + 1, -1));
-        return solve(pre, 0, k, 0, dp);
+        return ans;
     }
 };
