@@ -96,6 +96,7 @@ Collection of LeetCode questions and solutions
 | [1325-path-with-maximum-probability](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2411-spiral-matrix-iv](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2554-minimum-total-distance-traveled](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Dynamic Programming
@@ -107,6 +108,7 @@ Collection of LeetCode questions and solutions
 | [0664-strange-printer](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0664-strange-printer) |
 | [0967-minimum-falling-path-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2554-minimum-total-distance-traveled](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
 |  |
@@ -225,6 +227,7 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [1308-smallest-string-with-swaps](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
+| [2554-minimum-total-distance-traveled](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
