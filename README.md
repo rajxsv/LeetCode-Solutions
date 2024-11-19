@@ -96,6 +96,7 @@ Collection of LeetCode questions and solutions
 | [1325-path-with-maximum-probability](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2411-spiral-matrix-iv](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions and solutions
 | [0305-number-of-islands-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0305-number-of-islands-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1308-smallest-string-with-swaps](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Two Pointers
 |  |
@@ -236,4 +238,5 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [0487-max-consecutive-ones-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0487-max-consecutive-ones-ii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
