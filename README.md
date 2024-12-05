@@ -107,6 +107,7 @@ Collection of LeetCode questions and solutions
 | [2554-minimum-total-distance-traveled](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/rajxsv/LeetCode-Solutions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Collection of LeetCode questions and solutions
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/rajxsv/LeetCode-Solutions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Matrix
 |  |
 | ------- |
@@ -149,6 +151,7 @@ Collection of LeetCode questions and solutions
 | [0173-binary-search-tree-iterator](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0410-split-array-largest-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/rajxsv/LeetCode-Solutions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -198,6 +201,7 @@ Collection of LeetCode questions and solutions
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2580-circular-sentence](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2580-circular-sentence) |
 | [3195-separate-black-and-white-balls](https://github.com/rajxsv/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/rajxsv/LeetCode-Solutions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -249,4 +253,24 @@ Collection of LeetCode questions and solutions
 | ------- |
 | [0487-max-consecutive-ones-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0487-max-consecutive-ones-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Trie
+|  |
+| ------- |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/rajxsv/LeetCode-Solutions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/rajxsv/LeetCode-Solutions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/rajxsv/LeetCode-Solutions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
+## String Matching
+|  |
+| ------- |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/rajxsv/LeetCode-Solutions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
+## Hash Function
+|  |
+| ------- |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/rajxsv/LeetCode-Solutions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 <!---LeetCode Topics End-->
