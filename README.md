@@ -95,6 +95,7 @@ Collection of LeetCode questions and solutions
 | [0410-split-array-largest-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0444-sequence-reconstruction](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0444-sequence-reconstruction) |
 | [0487-max-consecutive-ones-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0487-max-consecutive-ones-ii) |
+| [0496-next-greater-element-i](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0881-loud-and-rich](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0881-loud-and-rich) |
 | [0967-minimum-falling-path-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions and solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0496-next-greater-element-i](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Linked List
@@ -157,6 +159,7 @@ Collection of LeetCode questions and solutions
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0305-number-of-islands-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0305-number-of-islands-ii) |
+| [0496-next-greater-element-i](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1308-smallest-string-with-swaps](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -181,6 +184,7 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Topological Sort
 |  |
