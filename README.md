@@ -36,6 +36,7 @@ Collection of LeetCode questions and solutions
 | [0801-is-graph-bipartite](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0881-loud-and-rich](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0881-loud-and-rich) |
 | [1308-smallest-string-with-swaps](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -51,6 +52,7 @@ Collection of LeetCode questions and solutions
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0801-is-graph-bipartite](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [1308-smallest-string-with-swaps](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
@@ -85,6 +87,7 @@ Collection of LeetCode questions and solutions
 | [0801-is-graph-bipartite](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0881-loud-and-rich](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0881-loud-and-rich) |
 | [1144-optimize-water-distribution-in-a-village](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1144-optimize-water-distribution-in-a-village) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1325-path-with-maximum-probability](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 ## Array
 |  |
@@ -191,6 +194,7 @@ Collection of LeetCode questions and solutions
 | ------- |
 | [0444-sequence-reconstruction](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0444-sequence-reconstruction) |
 | [0881-loud-and-rich](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0881-loud-and-rich) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 ## Bit Manipulation
 |  |
 | ------- |
