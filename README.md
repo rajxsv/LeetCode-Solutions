@@ -164,6 +164,7 @@ Collection of LeetCode questions and solutions
 | [0305-number-of-islands-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0305-number-of-islands-ii) |
 | [0496-next-greater-element-i](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1261-swap-for-longest-repeated-character-substring](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1308-smallest-string-with-swaps](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions and solutions
 | [0161-one-edit-distance](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0161-one-edit-distance) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0664-strange-printer](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0664-strange-printer) |
+| [1261-swap-for-longest-repeated-character-substring](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1308-smallest-string-with-swaps](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2580-circular-sentence](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2580-circular-sentence) |
@@ -260,6 +262,7 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [0487-max-consecutive-ones-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0487-max-consecutive-ones-ii) |
+| [1261-swap-for-longest-repeated-character-substring](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Trie
 |  |
