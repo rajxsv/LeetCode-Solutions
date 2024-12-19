@@ -8,6 +8,7 @@ Collection of LeetCode questions and solutions
 | [0098-validate-binary-search-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions and solutions
 | [0098-validate-binary-search-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -94,6 +96,7 @@ Collection of LeetCode questions and solutions
 | ------- |
 | [0018-4sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0260-single-number-iii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0305-number-of-islands-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0305-number-of-islands-ii) |
 | [0410-split-array-largest-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -163,6 +166,7 @@ Collection of LeetCode questions and solutions
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0305-number-of-islands-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0305-number-of-islands-ii) |
 | [0496-next-greater-element-i](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -289,4 +293,8 @@ Collection of LeetCode questions and solutions
 |  |
 | ------- |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/rajxsv/LeetCode-Solutions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
