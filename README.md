@@ -92,6 +92,7 @@ Collection of LeetCode questions and solutions
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0260-single-number-iii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0305-number-of-islands-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0305-number-of-islands-ii) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions and solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0161-one-edit-distance](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0161-one-edit-distance) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0186-reverse-words-in-a-string-ii) |
@@ -254,6 +256,7 @@ Collection of LeetCode questions and solutions
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0018-4sum) |
 | [1308-smallest-string-with-swaps](https://github.com/rajxsv/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 | [2554-minimum-total-distance-traveled](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
 ## Minimum Spanning Tree
