@@ -14,6 +14,7 @@ Collection of LeetCode questions and solutions
 | [0145-binary-tree-postorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -27,6 +28,7 @@ Collection of LeetCode questions and solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0261-graph-valid-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0261-graph-valid-tree) |
 | [0547-number-of-provinces](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -67,6 +69,7 @@ Collection of LeetCode questions and solutions
 | [0145-binary-tree-postorder-traversal](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/rajxsv/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Union Find
@@ -160,6 +163,7 @@ Collection of LeetCode questions and solutions
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0410-split-array-largest-sum](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajxsv/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/rajxsv/LeetCode-Solutions/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
